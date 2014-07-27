@@ -1,13 +1,13 @@
 #SVG Resources
 
-A curated list of SVG Resources
+A curated list of SVG Resources by Andy Chipperfield. Have suggestions for this list you think are useful? Email me at andychip77(@)gmail.com 
 
 
 ##Talks
 Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS 
 https://www.youtube.com/watch?v=hI9roqOKKO8
 
-#Understanding
+##Understanding
 W3C SVG Shapes
 http://www.w3.org/TR/SVG/shapes.html
 
