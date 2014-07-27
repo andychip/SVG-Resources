@@ -7,7 +7,7 @@ A curated list of SVG Resources
 Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS 
 https://www.youtube.com/watch?v=hI9roqOKKO8
 
-##Basics
+#Understanding
 W3C SVG Shapes
 http://www.w3.org/TR/SVG/shapes.html
 
