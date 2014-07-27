@@ -4,7 +4,7 @@ A curated list of SVG Resources
 
 
 ##Talks
-Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS ```
+Sara Soueidan: Styling and Animating Scalable Vector Graphics with CSS 
 https://www.youtube.com/watch?v=hI9roqOKKO8
 
 ##Basics
@@ -15,7 +15,17 @@ Getting Started
 http://webdesign.tutsplus.com/tutorials/getting-started-with-scalable-vector-graphics-svg--webdesign-7515
 
 SVG Browser Support
-http://caniuse.com/#feat=svg
+http://caniuse.com/#cats=SVG
+
+SVG Co-ordinates
+http://sarasoueidan.com/blog/svg-coordinate-systems/
+
+Structuring, Grouping, and Referencing in SVG
+http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/
+
+Clipping in CSS and SVG
+http://sarasoueidan.com/blog/css-svg-clipping/
+
 
 ##Techniques
 Using SVG
@@ -33,6 +43,9 @@ http://oak.is/thinking/animated-svgs/
 Animated Line Drawing
 http://jakearchibald.com/2013/animated-line-drawing-svg/
 
+Masking
+http://atomicrobotdesign.com/blog/htmlcss/svg-masks-html5-video-and-firefox-4/
+
 ##Apps
 SVG Editor
 http://petercollingridge.appspot.com/svg-editor
@@ -44,3 +57,7 @@ http://snapsvg.io/
 
 SVG.js
 http://svgjs.com/
+
+##Examples
+http://svg-wow.org
+http://www.responsivelogos.co.uk/
