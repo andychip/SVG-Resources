@@ -1,6 +1,6 @@
 #SVG Resources
 
-A curated list of SVG Resources by Andy Chipperfield. Have suggestions for this list you think are useful? Email me at andychip77(@)gmail.com 
+A curated list of SVG Resources. Have suggestions for this list you think are useful? Email me at andychip77(@)gmail.com 
 
 
 ##Talks
