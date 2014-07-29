@@ -61,6 +61,9 @@ http://snapsvg.io/
 SVG.js
 http://svgjs.com/
 
+Trianglify
+http://qrohlf.com/trianglify/
+
 ##Examples
 http://svg-wow.org
 http://www.responsivelogos.co.uk/
