@@ -46,6 +46,9 @@ http://jakearchibald.com/2013/animated-line-drawing-svg/
 Masking
 http://atomicrobotdesign.com/blog/htmlcss/svg-masks-html5-video-and-firefox-4/
 
+Masking & Animation
+http://codepen.io/yoksel/pen/eIxmr?editors=110
+
 ##Apps
 SVG Editor
 http://petercollingridge.appspot.com/svg-editor
