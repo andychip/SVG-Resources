@@ -67,6 +67,9 @@ http://svgjs.com/
 Trianglify
 http://qrohlf.com/trianglify/
 
+Lazy Line Painter
+http://lazylinepainter.info/
+
 ##Examples
 http://svg-wow.org
 
