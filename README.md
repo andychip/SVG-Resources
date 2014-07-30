@@ -69,4 +69,5 @@ http://qrohlf.com/trianglify/
 
 ##Examples
 http://svg-wow.org
+
 http://www.responsivelogos.co.uk/
