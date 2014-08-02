@@ -29,6 +29,9 @@ http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/
 Clipping in CSS and SVG
 http://sarasoueidan.com/blog/css-svg-clipping/
 
+Introduction to SVG Animation
+http://davidwalsh.name/svg-animation
+
 
 ##Techniques
 Using SVG
