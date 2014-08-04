@@ -32,8 +32,8 @@ http://sarasoueidan.com/blog/css-svg-clipping/
 Introduction to SVG Animation
 http://davidwalsh.name/svg-animation
 
-Animating SVG text on a path
-http://jonibologna.com/svg-text-along-a-path/
+SVG Gradient Issues
+http://jonibologna.com/svg-gradient-browser-quirks/
 
 
 ##Techniques
@@ -51,6 +51,12 @@ http://oak.is/thinking/animated-svgs/
 
 Animated Line Drawing
 http://jakearchibald.com/2013/animated-line-drawing-svg/
+
+Animated inline SVG Icons
+http://jonibologna.com/animated-inline-svg-icons/
+
+Animating SVG text on a path
+http://jonibologna.com/svg-text-along-a-path/
 
 Masking
 http://atomicrobotdesign.com/blog/htmlcss/svg-masks-html5-video-and-firefox-4/
