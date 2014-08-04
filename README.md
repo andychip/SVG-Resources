@@ -32,6 +32,9 @@ http://sarasoueidan.com/blog/css-svg-clipping/
 Introduction to SVG Animation
 http://davidwalsh.name/svg-animation
 
+Animating SVG text on a path
+http://jonibologna.com/svg-text-along-a-path/
+
 
 ##Techniques
 Using SVG
