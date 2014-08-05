@@ -17,11 +17,14 @@ http://webdesign.tutsplus.com/tutorials/getting-started-with-scalable-vector-gra
 SVG Browser Support
 http://caniuse.com/#cats=SVG
 
-SVG Co-ordinates
+Understanding SVG Coordinate Systems & Transformations (Part 1)
 http://sarasoueidan.com/blog/svg-coordinate-systems/
 
 Understanding SVG Coordinate Systems & Transformations (Part 2)
 http://sarasoueidan.com/blog/svg-transformations/
+
+Understanding SVG Coordinate Systems & Transformations (Part 3)
+http://sarasoueidan.com/blog/nesting-svgs/
 
 Structuring, Grouping, and Referencing in SVG
 http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/
