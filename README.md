@@ -38,6 +38,9 @@ http://davidwalsh.name/svg-animation
 SVG Gradient Issues
 http://jonibologna.com/svg-gradient-browser-quirks/
 
+Understanding the SVG fill-rule Property
+http://www.sitepoint.com/understanding-svg-fill-rule-property/
+
 
 ##Techniques
 Using SVG
