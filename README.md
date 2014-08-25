@@ -75,7 +75,7 @@ SVG Editor
 http://petercollingridge.appspot.com/svg-editor
 
 
-##JS libraries
+##libraries
 Snap.svg
 http://snapsvg.io/
 
@@ -91,9 +91,14 @@ http://lazylinepainter.info/
 Two.js
 http://jonobr1.github.io/two.js/
 
+PatternBolt
+http://buseca.github.io/patternbolt/
+
 ##Examples
 http://svg-wow.org
 
 http://www.responsivelogos.co.uk/
 
 http://codepen.io/wlindner/pen/IKGJi
+
+
