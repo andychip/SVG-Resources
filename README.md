@@ -74,6 +74,9 @@ http://codepen.io/yoksel/pen/eIxmr?editors=110
 SVG Editor
 http://petercollingridge.appspot.com/svg-editor
 
+Plain Pattern Maker
+http://www.kennethcachia.com/plain-pattern/
+
 
 ##libraries
 Snap.svg
