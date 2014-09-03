@@ -77,6 +77,12 @@ http://petercollingridge.appspot.com/svg-editor
 Plain Pattern Maker
 http://www.kennethcachia.com/plain-pattern/
 
+##Resources
+SVGeneration
+http://www.svgeneration.com
+
+Trianglify
+http://qrohlf.com/trianglify/
 
 ##libraries
 Snap.svg
@@ -84,9 +90,6 @@ http://snapsvg.io/
 
 SVG.js
 http://svgjs.com/
-
-Trianglify
-http://qrohlf.com/trianglify/
 
 Lazy Line Painter
 http://lazylinepainter.info/
