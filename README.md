@@ -70,6 +70,9 @@ http://atomicrobotdesign.com/blog/htmlcss/svg-masks-html5-video-and-firefox-4/
 Masking & Animation
 http://codepen.io/yoksel/pen/eIxmr?editors=110
 
+Compressing a png like a jpg using SVG
+http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/
+
 ##Apps
 SVG Editor
 http://petercollingridge.appspot.com/svg-editor
