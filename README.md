@@ -80,6 +80,9 @@ http://petercollingridge.appspot.com/svg-editor
 Plain Pattern Maker
 http://www.kennethcachia.com/plain-pattern/
 
+Clip Path Generator
+http://cssplant.com/clip-path-generator
+
 ##Resources
 SVGeneration
 http://www.svgeneration.com
