@@ -41,6 +41,9 @@ http://jonibologna.com/svg-gradient-browser-quirks/
 Understanding the SVG fill-rule Property
 http://www.sitepoint.com/understanding-svg-fill-rule-property/
 
+Using D3 and SVG Filters to Create a Fog of War Effect
+http://vasir.net/blog/data-visualization/using-d3-and-svg-filters-to-create-fog-of-war
+
 
 ##Techniques
 Using SVG
