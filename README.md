@@ -41,10 +41,6 @@ http://jonibologna.com/svg-gradient-browser-quirks/
 Understanding the SVG fill-rule Property
 http://www.sitepoint.com/understanding-svg-fill-rule-property/
 
-Using D3 and SVG Filters to Create a Fog of War Effect
-http://vasir.net/blog/data-visualization/using-d3-and-svg-filters-to-create-fog-of-war
-
-
 ##Techniques
 Using SVG
 http://css-tricks.com/using-svg/
@@ -75,6 +71,10 @@ http://codepen.io/yoksel/pen/eIxmr?editors=110
 
 Compressing a png like a jpg using SVG
 http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/
+
+Using D3 and SVG Filters to Create a Fog of War Effect
+http://vasir.net/blog/data-visualization/using-d3-and-svg-filters-to-create-fog-of-war
+
 
 ##Apps
 SVG Editor
