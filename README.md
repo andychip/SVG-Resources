@@ -75,6 +75,9 @@ http://peterhrynkow.com/how-to-compress-a-png-like-a-jpeg/
 Using D3 and SVG Filters to Create a Fog of War Effect
 http://vasir.net/blog/data-visualization/using-d3-and-svg-filters-to-create-fog-of-war
 
+A Guide to SVG Animations (SMIL)
+http://css-tricks.com/guide-svg-animations-smil
+
 
 ##Apps
 SVG Editor
