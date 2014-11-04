@@ -78,6 +78,9 @@ http://vasir.net/blog/data-visualization/using-d3-and-svg-filters-to-create-fog-
 A Guide to SVG Animations (SMIL)
 http://css-tricks.com/guide-svg-animations-smil
 
+Styling And Animating SVGs With CSS
+http://www.smashingmagazine.com/2014/11/03/styling-and-animating-svgs-with-css/
+
 
 ##Apps
 SVG Editor
